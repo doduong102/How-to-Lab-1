@@ -8,7 +8,7 @@ B) Remotely Connecting
 C) Trying Some Commands
 
 
-# PART A
+# PART A| Installing Microsoft malware
 
 To install on vscode, click on this here link: https://code.visualstudio.com/download
 
@@ -24,7 +24,9 @@ Congrats, you now have successfully installed vscode. And you have my blessing t
 
 
 
-# PART B
+# PART B| ssh Time
+
+C) Trying Some Commands
 
 
 
