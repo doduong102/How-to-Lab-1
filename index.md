@@ -26,7 +26,14 @@ Congrats, you now have successfully installed vscode. And you have my blessing t
 
 # PART B| ssh Time
 
-C) Trying Some Commands
+If you have a Windows machine install gitbash here: https://gitforwindows.org/
+If you have a Mac, you're in the clear
+If you have a Linux machine, I can't help you :)
+
+To remotely connect, open your terminal in VScode. [Note: for me, I couldn't connect because for some reason my previous VScode installation broke the ssh command, but switching to raw command prompt made it run. YMMV]
+
+
+# Part C| Hacking into the mainframe
 
 
 
