@@ -27,4 +27,4 @@ Congrats, you now have successfully installed vscode. And you have my blessing t
 # PART B
 
 
-![image](https://user-images.githubusercontent.com/130004918/231018227-cc311583-70b3-4a5c-b878-6df14c1e3e27.png)
+
