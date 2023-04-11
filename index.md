@@ -60,3 +60,6 @@ These are just the ones that I used. There's a longer list in the original lab g
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/130004918/231023185-1b6019d1-26e2-49c1-ab64-1947010996aa.png">
 
 aaaaaaand that's it! You are done.
+
+![image](https://user-images.githubusercontent.com/130004918/231045848-76984c65-7b64-4374-a309-b9e45da75f02.png)
+
