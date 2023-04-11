@@ -47,13 +47,16 @@ Hit enter after entering your password you should get some info that makes you l
 
 Here we have some commands from Professor Pollitz:
 
-'cd ~'
-'cd'
-'ls -lat'
-'ls -a'
-'ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username'
-'cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/'
-'cat /home/linux/ieng6/cs15lsp23/public/hello.txt'
+ls -lat
 
 
+ls -a
 
+
+cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+
+These are just the ones that I used. There's a longer list in the original lab guidelines. Here's the final result.
+
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/130004918/231023185-1b6019d1-26e2-49c1-ab64-1947010996aa.png">
+
+aaaaaaand that's it! You are done.
