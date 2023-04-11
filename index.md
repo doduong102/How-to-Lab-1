@@ -37,11 +37,23 @@ The guide should give you a username and password that you can enter into your t
 To remotely connect, open your terminal in VScode. [Note: for me, I couldn't connect because for some reason my previous VScode installation broke the ssh command, but switching to raw command prompt made it run. YMMV]
 
 
+Copy and paste the following command into your terminal|ssh cs15lsp23**@ieng6.ucsd.edu|. Be sure to replace the ** with the letters that you got from following the google guide. On the next line it will ask for your password. If you type in or paste in something and you don't see anything that's normal. That's cyBeRseCuRiTY.
+Hit enter after entering your password you should get some info that makes you look like a pro hacker like this:
 
-
+<img width="497" alt="image" src="https://user-images.githubusercontent.com/130004918/231022374-a0f739eb-a586-4b84-8805-5fc8cece83e1.png">
 
 
 # Part C| Hacking into the mainframe
+
+Here we have some commands from Professor Pollitz:
+
+cd ~
+cd
+ls -lat
+ls -a
+ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
+cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 
 
 
