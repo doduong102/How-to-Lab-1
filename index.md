@@ -53,6 +53,8 @@ Here we have some commands from Professor Pollitz:
 
 `ls -lat` - a variation on the original list/`ls` command. Displays everything in original `ls` command in a longer format with extra details such as permissions, details, time, size, and includes the hidden files from ls -a
 
+(Notice how the same colored file names from `ls -a` can also be seen when entering `ls -lat`)
+
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt` - stands for "concatenate" and prints the contents of a file
 
 These are just the ones that I used. There's a longer list in the original lab guidelines. Here's the final result.
