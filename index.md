@@ -47,13 +47,13 @@ Hit enter after entering your password you should get some info that makes you l
 
 Here we have some commands from Professor Pollitz:
 
-ls -lat
+`ls -lat` - def
 
 
-ls -a
+`ls -a` - def
 
 
-cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+`cat /home/linux/ieng6/cs15lsp23/public/hello.txt` -def
 
 These are just the ones that I used. There's a longer list in the original lab guidelines. Here's the final result.
 
