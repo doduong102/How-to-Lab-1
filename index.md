@@ -10,7 +10,7 @@ C) Trying Some Commands
 
 # PART A| Installing Microsoft malware
 
-To install on vscode, click on this here link: https://code.visualstudio.com/download
+To install on vscode, click on this here link: [Link](https://code.visualstudio.com/download)
 
 You should land on a page that looks like this:
 ![Image](vscode1.png) 
