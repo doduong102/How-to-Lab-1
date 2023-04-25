@@ -55,7 +55,7 @@ Here we have some commands from Professor Pollitz:
 
 (Notice how the same colored file names from `ls -a` can also be seen when entering `ls -lat`)
 
-`cat /home/linux/ieng6/cs15lsp23/public/hello.txt` - stands for "concatenate" and prints the contents of a file
+`cat /home/linux/ieng6/cs15lsp23/public/hello.txt` - stands for "concatenate" and prints the contents of a file. The `/home/linux/ieng6/cs15lsp23/public/hello.txt` part of the command is directory of the file that we are trying to concatenate.
 
 These are just the ones that I used. There's a longer list in the original lab guidelines. Here's the final result.
 
