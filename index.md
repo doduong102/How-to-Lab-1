@@ -47,13 +47,13 @@ Hit enter after entering your password you should get some info that makes you l
 
 Here we have some commands from Professor Pollitz:
 
-`ls -lat` - def
+`ls` - stands for "list" and will list files and directories in the current working directory
 
+`ls -a` - a variation on the original list/`ls` command. Displays everything in the original `ls` command in addition to hidden files and directories
 
-`ls -a` - def
+`ls -lat` - a variation on the original list/`ls` command. Displays everything in original `ls` command in a longer format with extra details such as permissions, details, time, size, and includes the hidden files from ls -a
 
-
-`cat /home/linux/ieng6/cs15lsp23/public/hello.txt` -def
+`cat /home/linux/ieng6/cs15lsp23/public/hello.txt` - stands for "concatenate" and prints the contents of a file
 
 These are just the ones that I used. There's a longer list in the original lab guidelines. Here's the final result.
 
