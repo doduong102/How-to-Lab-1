@@ -26,11 +26,11 @@ Congrats, you now have successfully installed vscode. And you have my blessing t
 
 # PART B| ssh Time
 
-If you have a Windows machine install gitbash here: https://gitforwindows.org/.
+If you have a Windows machine install gitbash here: [Link](https://gitforwindows.org/).
 If you have a Mac, you're in the clear and don't need gitbash. The ssh should run directly in your terminal.
 If you have a Linux machine, I can't help you :)
 
-After all that jazz follow this guide: https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit
+After all that jazz follow this guide: [Link](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 
 The guide should give you a username and password that you can enter into your terminal.
 
